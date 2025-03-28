@@ -1,0 +1,15 @@
+*   cb46f7e Merge branch '9-mark-all-tasks-in-a-category-as-completed'
+|\  
+| * 499f23a Implement mark all task in a category as completed
+* |   d2bf94e Merge pull request #11 from BorjanMomir/8-mark-a-task-as-completed-by-name
+|\ \  
+| * | 695e8a8 Implement mark a task as completed by name
+| |/  
+* |   6d9356c Merge pull request #10 from BorjanMomir/7-count-tasks-per-category
+|\ \  
+| |/  
+|/|   
+| * a3a1ed6 Implement count tasks per category
+|/  
+* bedda17 Add starter code
+* 47de809 Initial commit
